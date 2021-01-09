@@ -6,7 +6,7 @@ import java.io.IOException
 import java.net.HttpURLConnection
 import java.net.URL
 
-const val PUB_API_URL = "https://pub.dartlang.org/api/packages/"
+const val PUB_API_URL = "https://pub.flutter-io.cn/api/packages/"
 
 
 class DependencyChecker {
